@@ -13,6 +13,7 @@ public class Tela {
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
 		int opcao = 0;
+		
 //		Usuario usuario = new Usuario(1, "c@g.com", "senha", "nome");
 //		UsuarioDAO usuarioDAO = new UsuarioDAO();
 //		usuarioDAO.adicionar(usuario);
